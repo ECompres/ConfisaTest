@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfisaTest", "ConfisaTest\ConfisaTest.csproj", "{E8EBB537-3ABA-44CA-A2E5-DE933DC20EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8EBB537-3ABA-44CA-A2E5-DE933DC20EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8EBB537-3ABA-44CA-A2E5-DE933DC20EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8EBB537-3ABA-44CA-A2E5-DE933DC20EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8EBB537-3ABA-44CA-A2E5-DE933DC20EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8186CC9-A90D-4EA1-970D-4A5404224281}
+	EndGlobalSection
+EndGlobal
